@@ -1,0 +1,12 @@
+﻿  JanelaCadastro.cpp
+C:\Users\pedro\Documents\pedro\drive-download-20220727T014815Z-001\Docs_Ppts\Docs&Ppts\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\JanelaCadastro.h(3,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'my_global.h': No such file or directory
+  JanelaGrafico.cpp
+C:\Users\pedro\Documents\pedro\drive-download-20220727T014815Z-001\Docs_Ppts\Docs&Ppts\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\JanelaGrafico.h(3,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'my_global.h': No such file or directory
+  JanelaPrincipal.cpp
+C:\Users\pedro\Documents\pedro\drive-download-20220727T014815Z-001\Docs_Ppts\Docs&Ppts\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\JanelaCadastro.h(3,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'my_global.h': No such file or directory
+  JanelaRelatorio.cpp
+C:\Users\pedro\Documents\pedro\drive-download-20220727T014815Z-001\Docs_Ppts\Docs&Ppts\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\JanelaRelatorio.h(3,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'my_global.h': No such file or directory
+  main.cpp
+C:\Users\pedro\Documents\pedro\drive-download-20220727T014815Z-001\Docs_Ppts\Docs&Ppts\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\JanelaCadastro.h(3,10): fatal  error C1083: Não é possível abrir arquivo incluir: 'my_global.h': No such file or directory
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Gerando Código...

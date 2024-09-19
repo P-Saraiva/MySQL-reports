@@ -1,0 +1,9 @@
+D:\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.JanelaPrincipal.resources
+D:\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.vcxproj.GenerateResource.cache
+C:\Users\pedro\Downloads\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.JanelaPrincipal.resources
+C:\Users\pedro\Downloads\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.vcxproj.GenerateResource.cache
+C:\Users\pedro\Downloads\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.vcxprojAssemblyReference.cache
+C:\Users\pedro\Downloads\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.JanelaCadastro.resources
+C:\Users\pedro\Downloads\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.JanelaRelatorio.resources
+C:\Users\pedro\Downloads\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.JanelaGrafico.resources
+C:\Users\pedro\Downloads\VisualStudioMysql\VisualStudioMysql\VisualStudioMysql\x64\Debug\VisualStudioMysql.vcxproj.CopyComplete
